@@ -25,15 +25,15 @@
 
 [CSDNGreener](https://greasyfork.org/zh-CN/scripts/378351-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-csdn%E5%B9%BF%E5%91%8A%E5%AE%8C%E5%85%A8%E8%BF%87%E6%BB%A4-%E4%BA%BA%E6%80%A7%E5%8C%96%E8%84%9A%E6%9C%AC%E4%BC%98%E5%8C%96-%E4%B8%8D%E7%94%A8%E5%86%8D%E7%99%BB%E5%BD%95%E4%BA%86-%E8%AE%A9%E4%BD%A0%E4%BD%93%E9%AA%8C%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%96%9C%E7%9A%84%E5%B4%AD%E6%96%B0csdn)
 
-#### 国外网站
+#### 国外网站可以下载
 
-[Twitter下载](https://greasyfork.org/zh-CN/scripts/423001-twitter-media-downloader)
+[Twitter](https://greasyfork.org/zh-CN/scripts/423001-twitter-media-downloader)
 
-[Instagram下载](https://greasyfork.org/en/scripts/406535-instagram-download-button)
+[Instagram](https://greasyfork.org/en/scripts/406535-instagram-download-button)
 
-[Youtube下载](https://greasyfork.org/en/scripts/369400-local-youtube-downloader)
+[Youtube](https://greasyfork.org/en/scripts/369400-local-youtube-downloader)
 
-[Github下载加速](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
+[Github](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
 
 
 ## 如何反馈不支持的油猴脚本
