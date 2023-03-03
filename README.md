@@ -1,11 +1,11 @@
 # 自用油猴脚本
 全平台【PC+移动端】油猴脚本测试收集和反馈
 
-[电脑端tampermonkey](https://www.tampermonkey.net/)
+[电脑端：tampermonkey](https://www.tampermonkey.net/)
 
 支持 Chrome、Microsoft Edge、Safari、Opera Next 和 Firefox。
 
-[iOS Zipym](https://apps.apple.com/cn/app/id1661537823)
+[iOS系统：Zipym](https://apps.apple.com/cn/app/id1661537823)
 
 自研油猴管理引擎，无需任何第三方app，支持iOS13.0+
 
