@@ -5,7 +5,7 @@
 
 支持 Chrome、Microsoft Edge、Safari、Opera Next 和 Firefox。
 
-[iOS系统：Zipym](https://apps.apple.com/cn/app/id1661537823)
+[iOS系统：Zipym 【点我直接安装】](https://apps.apple.com/cn/app/id1661537823)
 
 自研油猴管理引擎，无需任何第三方app，支持iOS13.0+
 
