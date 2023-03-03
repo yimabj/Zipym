@@ -9,10 +9,6 @@
 
 自研油猴管理引擎，无需任何第三方app，支持iOS13.0+
 
-## 如何入群
-扫码关注，回复【Zipym交流群】
-![Zipym交流群](https://zoepro.github.io/zoe-wechat.jpg)
-
 
 ## 测试通过的油猴脚本
 
@@ -44,4 +40,6 @@
 
 您可以在此项目下创建issue
 
-
+## 如何入群
+扫码关注，回复【Zipym交流群】
+![Zipym交流群](https://zoepro.github.io/zoe-wechat.jpg)
