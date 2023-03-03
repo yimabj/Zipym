@@ -1,4 +1,4 @@
-# Zipym
+# 自用油猴脚本
 全平台【PC+移动端】油猴脚本测试收集和反馈
 
 [电脑端tampermonkey](https://www.tampermonkey.net/)
@@ -35,5 +35,7 @@
 [Github下载加速](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
 
 
+## 如何反馈不支持的油猴脚本
 
+您可以在此项目下创建issue
 
