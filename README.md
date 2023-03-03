@@ -12,6 +12,8 @@
 
 ## 测试通过的油猴脚本
 
+### ～～～～【注意以下链接请使用Zipym的浏览器或电脑端浏览器中打开】～～～～～
+
 #### 国内外通用
 [沉浸式翻译](https://greasyfork.org/zh-CN/scripts/457196-immersive-translate)
 
