@@ -15,7 +15,7 @@
 ### ～～【注意：要在Zipym的浏览器或电脑端浏览器中打开】～～
 
 #### 国内外通用
-[🐵🐒沉浸式翻译🐒🐵](https://greasyfork.org/zh-CN/scripts/457196-immersive-translate)
+[🐵🐒沉浸式翻译🐒🐵(iOS15.0+)](https://greasyfork.org/zh-CN/scripts/457196-immersive-translate)
 
 #### 国内网站
 
