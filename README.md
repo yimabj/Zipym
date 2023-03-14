@@ -17,7 +17,7 @@
 #### 国内外通用
 [🐵🐒沉浸式翻译🐒🐵(iOS15.0+)](https://greasyfork.org/zh-CN/scripts/457196-immersive-translate)
 
-[东方永页机-终极自动翻页](https://greasyfork.org/zh-CN/scripts/438684-pagetual)
+[🐵🐒东方永页机-终极自动翻页🐒🐵](https://greasyfork.org/zh-CN/scripts/438684-pagetual)
 
 #### 国内网站
 
